@@ -4,7 +4,19 @@ NFR imageJ plugin compatible with Fiji was developed, which enables the applicat
 Drag NFR_Plugin. jar into the plugin folder of ImageJ, then open ImageJ and find NFR_Plugin in the plugin.
 
 
-https://github.com/user-attachments/assets/f1a952e2-0228-46f1-9130-ebadfd0e712a
-https://github.com/user-attachments/assets/2a2c5ead-5923-4ede-a72a-1015ae71a446
-https://github.com/user-attachments/assets/ed02d47e-a4ba-4132-953a-5498920bfd1a
-https://github.com/user-attachments/assets/22a490cb-2d81-48c9-998e-2fd0b2186f13
+
+https://github.com/user-attachments/assets/1be6febd-c838-47da-8918-db95a8ce259b
+
+
+
+https://github.com/user-attachments/assets/5871754c-b7fc-44a3-8a06-6fcaaebbbd77
+
+
+
+https://github.com/user-attachments/assets/e7a776a0-229a-4a76-9cf7-73cb645ef4ae
+
+
+
+https://github.com/user-attachments/assets/45821f7d-dcea-4075-939e-9b1bc95b51ab
+
+
