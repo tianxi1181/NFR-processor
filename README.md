@@ -1,21 +1,21 @@
 # NFR-processor
 NFR provides a deconvolution-like effect to significantly improve image clarity and resolution, but with a revolutionary advantage: It does not require any knowledge or estimation of the Point Spread Function (PSF).
 NFR imageJ plugin compatible with Fiji was developed, which enables the application of NFR to 2D images and time-series sequences directly within the ImageJ environment.
-Drag NFR_Plugin. jar into the plugin folder of ImageJ, then open ImageJ and find NFR_Plugin in the plugin.We will update the NFR software written in Python that supports 3D data processing in the future.
+Drag NFR_Plugin. jar into the plugin folder of ImageJ, then open ImageJ and find NFR_Plugin in the plugin.☝️We will update the NFR software written in Python that supports 3D data processing in the future☝️.
 
 
 
-Uploading 序列 01.mp4…
+https://github.com/user-attachments/assets/e23a5190-e28c-496d-9435-ab905e94f28f
 
 
 
-Uploading 序列 01_1.mp4…
+https://github.com/user-attachments/assets/b39797a0-c677-4441-b5bf-c59945fc03e5
 
 
 
-Uploading 序列 01_2.mp4…
+https://github.com/user-attachments/assets/0970a9a7-f6fe-4b20-8aa8-7d781246b253
 
 
 
-Uploading 序列 01_3.mp4…
+https://github.com/user-attachments/assets/6a49e7ec-4761-4602-90b5-3d0f44a2980b
 
