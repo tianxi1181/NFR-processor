@@ -3,6 +3,7 @@ NFR provides a deconvolution-like effect to significantly improve image clarity 
 For a deeper understanding of the underlying methodology, comprehensive results, and validation of NFR, please refer to our recently submitted preprint paper. You can access it via its Digital Object Identifier (DOI): https://doi.org/10.64898/2026.05.28.728601.
 NFR imageJ plugin compatible with Fiji was developed, which enables the application of NFR to 2D images and time-series sequences directly within the ImageJ environment.
 Drag NFR_Plugin. jar into the plugin folder of ImageJ, then open ImageJ and find NFR_Plugin in the plugin.☝️We will update the NFR software written in Python that supports 3D data processing in the future☝️.
+
 **Questions, Feedback, or Collaboration**?
 We welcome any inquiries regarding NFR. Please feel free to reach out to us at: 12230056@zju.edu.cn.
 
