@@ -6,6 +6,12 @@ Drag NFR_Plugin. jar into the plugin folder of ImageJ, then open ImageJ and find
 **Questions, Feedback, or Collaboration**?
 We welcome any inquiries regarding NFR. Please feel free to reach out to us at: 12230056@zju.edu.cn.
 
+## 🎉 NEW: MATLAB GUI for Real-Time Processing
+We have updated the NFR MATLAB program with a user-friendly Graphical User Interface (GUI). It is capable of real-time processing across various types of datasets. 
+Please refer to our instructional images and demo video below, and follow the steps to operate the software:
+<img width="2000" height="1125" alt="How to Use NFR_GUI" src="https://github.com/user-attachments/assets/8b39ec52-db22-487a-93b4-edfa66a0598e" />
+
+
 
 https://github.com/user-attachments/assets/e23a5190-e28c-496d-9435-ab905e94f28f
 
