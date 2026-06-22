@@ -8,8 +8,12 @@ We welcome any inquiries regarding NFR. Please feel free to reach out to us at: 
 
 ## 🎉 NEW: MATLAB GUI for Real-Time Processing
 We have updated the NFR MATLAB program with a user-friendly Graphical User Interface (GUI). It is capable of real-time processing **without GPU Acceleration** across various types of datasets. 
-Please refer to our instructional images and demo video below, and follow the steps to operate the software:
+Please refer to our instructional image and demo video below, and follow the steps to operate the software.
+Instructional image:
 <img width="2000" height="1125" alt="How to Use NFR_GUI" src="https://github.com/user-attachments/assets/8b39ec52-db22-487a-93b4-edfa66a0598e" />
+
+Demo video：
+https://github.com/user-attachments/assets/be7dcd7c-90bc-4420-9d64-778d010c3595
 
 
 
