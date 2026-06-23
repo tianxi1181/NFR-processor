@@ -5,7 +5,13 @@ Drag NFR_Plugin. jar into the plugin folder of ImageJ, then open ImageJ and find
 
 **Questions, Feedback, or Collaboration**?
 We welcome any inquiries regarding NFR. Please feel free to reach out to us at: 12230056@zju.edu.cn.
+## ⚠️ Note on Background Noise / Contrast Adjustment
+After NFR processing, some images may display a seemingly "dirty" or noisy background. 
+This is an **inherent characteristic** of deconvolution and NFR algorithms: the compression of the dynamic range makes previously weak, low-intensity background noise more visible. 
+**How to fix it:**
+You can easily remove this background by adjusting the display contrast and increasing the minimum threshold (black level). 
 
+* **For example, in ImageJ / Fiji:** Go to `Image` ➔ `Adjust` ➔ `Brightness/Contrast` and increase the **Minimum** slider until the background becomes clean.
 ## 🎉 NEW: MATLAB GUI for Real-Time Processing
 We have updated the NFR MATLAB program with a user-friendly Graphical User Interface (GUI). It is capable of real-time processing **without GPU Acceleration** across various types of datasets. 
 Please refer to our instructional image and demo video below, and follow the steps to operate the software.
