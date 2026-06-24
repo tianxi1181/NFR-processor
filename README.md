@@ -15,6 +15,16 @@ You can easily remove this background by adjusting the display contrast and incr
 ## 🎉 NEW: MATLAB GUI for Real-Time Processing
 We have updated the NFR MATLAB program with a user-friendly Graphical User Interface (GUI). It is capable of real-time processing **without GPU Acceleration** across various types of datasets. 
 Please refer to our instructional image and demo video below, and follow the steps to operate the software.
+
+## 💻 Testing Environment & Compatibility
+To avoid potential issues caused by different running environments, please note that all the software and plugins mentioned above were developed, tested, and verified on a laptop with the following specifications:
+* **OS:** Windows 11
+* **CPU:** Intel 12700H
+* **RAM:** 16 GB
+* **MATLAB Version:** R2022b
+* **ImageJ Version:** 1.54p
+*Additionally, the ImageJ plugin has been successfully tested on 3 different computers and functions normally.*
+
 Instructional image:
 <img width="2000" height="1125" alt="How to Use NFR_GUI" src="https://github.com/user-attachments/assets/8b39ec52-db22-487a-93b4-edfa66a0598e" />
 
